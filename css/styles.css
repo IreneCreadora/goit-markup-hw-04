@@ -148,6 +148,7 @@ body {
 /* ------------------------------hero ---------------------------------*/
 .hero {
     max-width: 1600px;
+    height: 600px;
     margin-left: auto;
     margin-right: auto;
     background-color: var(--bg-accent-color);
@@ -420,8 +421,6 @@ border-radius: 4px;
     flex-wrap: wrap;
 }
 .portfolio-item {
-    display: block;
-    /* outline: 1px solid greenyellow; */
     margin-left: 0;
     margin-right: 30px;
     margin-bottom: 30px;
